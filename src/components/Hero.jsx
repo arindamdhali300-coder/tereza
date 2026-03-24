@@ -36,7 +36,7 @@ const Hero = () => {
       name: 'RED ROSE',
       image: './images/flower3.png',
       color: 'linear-gradient(135deg, #7a0b10 0%, #b91c1c 100%)',
-      desc: `🌹 Roses for all the good things life has to offer ❤️🌹 And roses… just to complete it. Great Year Ahead🐰 Happy Birthday Girl.`,
+      desc: `🌹 Roses for all the good things life has to offer ❤️🌹 And roses… just to complete it. Great Year Ahead🐰 Happy Birthday Girl💝.`,
     },
   ]
 
@@ -91,7 +91,7 @@ const Hero = () => {
         {/* Special header message */}
         <div className="special-message">
           <span className="heart-icon">💝</span>
-          <p>Very Happy Birthday🐻‍❄️🐼
+          <p>Best Wishes🐻‍❄️🐼
             for better, brighter year</p>
         </div>
 
