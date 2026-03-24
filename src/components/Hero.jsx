@@ -91,8 +91,8 @@ const Hero = () => {
         {/* Special header message */}
         <div className="special-message">
           <span className="heart-icon">💝</span>
-          <p>A Happy Birthday 🐻‍❄️🐼
-            To a better, brighter year</p>
+          <p>Very Happy Birthday🐻‍❄️🐼
+            for better, brighter year</p>
         </div>
 
         <motion.div
