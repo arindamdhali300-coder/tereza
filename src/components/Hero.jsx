@@ -9,7 +9,7 @@ const Hero = () => {
       image: './images/flower1.png',
       color: 'linear-gradient(135deg, #d4a017 0%, #f2c94c 100%)',
       // desc: `Radiant blooms that follow the sun ✨ you are the sunshine gentle but powerful`,
-      desc: `🌻 Sunflowers for positivity and bright days`,
+      desc: `🌻 Sunflowers are sign of positivity and bright days and here-by my wishes include it.`,
     },
     {
       name: 'TULIPS',
@@ -36,7 +36,7 @@ const Hero = () => {
       name: 'RED ROSE',
       image: './images/flower3.png',
       color: 'linear-gradient(135deg, #7a0b10 0%, #b91c1c 100%)',
-      desc: `🌹 Roses for all the good things life has to offer ❤️🌹 And roses… just to complete it. Great Year Ahead🐰 `,
+      desc: `🌹 Roses for all the good things life has to offer ❤️🌹 And roses… just to complete it. Great Year Ahead🐰 Happy Birthday Girl.`,
     },
   ]
 
